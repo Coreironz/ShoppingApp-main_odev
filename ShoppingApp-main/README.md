@@ -61,7 +61,7 @@ MVVM (Model-View-ViewModel) architecture pattern and data binding is used in the
     * [Kotlin Parcelize](https://developer.android.com/kotlin/parcelize)
     * [Lottie Library](https://github.com/airbnb/lottie-android)
     * [Gson](https://github.com/google/gson)
-    *[huawei-pushkit-add-project]
+    *[huawei](https://developer.huawei.com/consumer/en/codelab/HMSPushKit/index.html#0)
 ## Requirements
 - Android Studio Chipmunk | 2021.2.1 Patch 2
 - Android Studio's Gradle JDK version should be Java 11.0.10.
