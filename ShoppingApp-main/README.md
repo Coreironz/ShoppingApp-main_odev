@@ -9,15 +9,12 @@
 <p align="left">
 <img width="180" height="400" src="ShoppingApp/gifs/1.gif">
 <img width="180" height="400" src="ShoppingApp/gifs/2.gif">
-<img width="180" height="400" src="ShoppingApp/gifs/3.gif">
-<img width="180" height="400" src="ShoppingApp/gifs/4.gif">
+
 </p>
 <p align="left">
 <img width="150" height="300" src="ShoppingApp/images/0.jpg">
 <img width="150" height="300" src="ShoppingApp/images/1.jpg">
-<img width="150" height="300" src="ShoppingApp/images/2.jpg">
-<img width="150" height="300" src="ShoppingApp/images/3.jpg">
-<img width="150" height="300" src="ShoppingApp/images/4.jpg">
+
 </p>
 
 ## Table of Contents
