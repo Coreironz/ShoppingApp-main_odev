@@ -18,10 +18,6 @@
 <img width="150" height="300" src="ShoppingApp/images/2.jpg">
 <img width="150" height="300" src="ShoppingApp/images/3.jpg">
 <img width="150" height="300" src="ShoppingApp/images/4.jpg">
-<img width="150" height="300" src="ShoppingApp/images/5.jpg">
-<img width="150" height="300" src="ShoppingApp/images/6.jpg">
-<img width="150" height="300" src="ShoppingApp/images/7.jpg">
-<img width="150" height="300" src="ShoppingApp/images/8.jpg">
 </p>
 
 ## Table of Contents
@@ -53,7 +49,7 @@ MVVM (Model-View-ViewModel) architecture pattern and data binding is used in the
     * [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
     * [Navigation](https://developer.android.com/guide/navigation)
     * [DataStore](https://developer.android.com/topic/libraries/architecture/datastore)
-    
+
 * Third Parties
     * [Firebase](https://firebase.google.com)
     * [Firebase Auth](https://firebase.google.com/docs/auth)
@@ -65,38 +61,10 @@ MVVM (Model-View-ViewModel) architecture pattern and data binding is used in the
     * [Kotlin Parcelize](https://developer.android.com/kotlin/parcelize)
     * [Lottie Library](https://github.com/airbnb/lottie-android)
     * [Gson](https://github.com/google/gson)
-    
+    *[huawei-pushkit-add-project]
 ## Requirements
 - Android Studio Chipmunk | 2021.2.1 Patch 2
 - Android Studio's Gradle JDK version should be Java 11.0.10.
 - Create Firebase App
     - Enable -> Firebase Auth
     - Enable -> Firebase Cloud Firestore
-## Contact
-- [Linkedin](https://www.linkedin.com/in/harun-adiguzel/)
-- [Personal Web Site](https://harun.xyz/)
-
-```xml
-Designed and developed by mrnirva (Harun Adiguzel)
-
-MIT License
-
-Copyright (c) 2022 Harun Adıgüzel
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
